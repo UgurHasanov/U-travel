@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-image:url(./images/Baku.jpg) ;
+background-size: cover;
+background-repeat: no-repeat;
+height: 100vh;
+
+}
+.nav-link{
+    color: white!important;
+}
+.navbar-brand{
+    color: white!important;
+}
+.reng{
+    color: white;
+    height: 90vh;
+}
+#f{
+    text-align: center;
+    background-color: black;
+    color: white;
+   height: 50px;
+   line-height: 50px;
+   margin-top : 10px;
+
+
+
+}
